@@ -1,4 +1,5 @@
-package commands
+
+	package commands
 
 import (
 	"testing"
